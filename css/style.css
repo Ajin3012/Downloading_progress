@@ -1,0 +1,18 @@
+body{
+	text-align:center;
+}
+
+#progress{
+	background-color:grey;
+	margin:40px ;
+	width:90%;
+	height:30px;
+	position:relative;
+}
+
+#bar{
+	background-color:green;
+	width:10%;
+	height:30px;
+	position:absolute;
+}
